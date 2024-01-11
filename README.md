@@ -1,11 +1,11 @@
-# Proyectos de [Tu Nombre]
+# Proyectos de [Jaime Álvarez De Neyra]
 
 ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de proyectos en los que he trabajado, desde pequeñas utilidades hasta aplicaciones más complejas. Siéntete libre de explorar, clonar y contribuir.
 
 ## Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1](enlace_al_proyecto_1)
-Breve descripción del proyecto 1.
+### 1. [1v1 Unity Game](enlace_al_proyecto_1)
+Proyecto de videojuego falso 3d uno contra uno a contra reloj ya que la idea del reto era acabarlo antes de una semana.
 
 ![Captura de Pantalla del Proyecto 1](enlace_a_imagen_proyecto_1)
 
@@ -14,8 +14,10 @@ Breve descripción del proyecto 1.
 - Característica 2
 - ...
 
-### 2. [Nombre del Proyecto 2](enlace_al_proyecto_2)
-Breve descripción del proyecto 2.
+### 2. [Dev Nexus](enlace_al_proyecto_2)
+Este proyecto diseñe con Django un página que registraba usuarios y empresas y podían crear noticias eventos y asociarse como empresesas. Noticias y eventos cada uno tiene su propio foro.
+
+### 2. [Dev Nexus](enlace_al_proyecto_2)
 
 ![Captura de Pantalla del Proyecto 2](enlace_a_imagen_proyecto_2)
 
